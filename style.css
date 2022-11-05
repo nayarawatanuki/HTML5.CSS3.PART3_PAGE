@@ -1,0 +1,114 @@
+header {
+    background: #BBBBBB;
+    padding: 20px 0;
+}
+
+.box {
+    position: relative;
+    margin: 0 auto;
+    width: 940px;
+}
+
+nav {
+    position: absolute;
+    right: 0;
+    top: 110px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 22px;
+    color: #000000;
+}
+
+nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
+}
+
+main {
+    width: 940px;
+    margin: 0 auto;
+}
+
+.products {
+    padding: 50px 0;
+    margin: 0 auto;
+    width: 940px;
+}
+
+.products li {
+    border: 2px solid #000000;
+    box-sizing: border-box;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    text-align: center;
+    padding: 30px 20px;
+    margin: 0 1.5%;
+    width: 30%;
+}
+
+.products li:hover {
+    border-color: #C78C19;
+    cursor: pointer;
+}
+
+.products li:hover h2 {
+    font-size: 34px;
+}
+
+.products li:active {
+    border-color: #088C19;
+}
+
+.products h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.product-description {
+    font-size: 18px;
+}
+
+.price-product {
+    font-size: 22px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+form {
+    margin: 40px 0;
+}
+
+form label {
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+form input {
+    width: 50%;
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+}
+
+footer {
+    background: url("./images/bg.jpg");
+    text-align: center;
+    padding: 40px 0;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
