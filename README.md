@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Barbearia Alura - contato" src="https://raw.githubusercontent.com/nayarawatanuki/html5-css3-part3__page/main/images/README.md/Barbearia%20Alura%20-slide.png"/>
+  <img alt="Barbearia Alura - contato" src="https://raw.githubusercontent.com/nayarawatanuki/html5-css3-part3__page/main/images/README.md/Barbearia%20Alura%20-slide.png#vitrinedev"/>
 </h1>
 
 ### Índice
@@ -15,7 +15,7 @@
 </br>
 
 ## :pencil: Descrição do Projeto
-O projeto Barbearia Alura, é uma proposta de página web para uma barbearia com objetivo de aprender a como fazer uma página. Desenvolvido para o curso de **HTML5 E CSS3 PARTE 3: TRABALHANDO COM FORMULÁRIOS E TABELAS** da platforma [Alura](https://www.alura.com.br/).
+O projeto Barbearia Alura, é uma proposta de página web para uma barbearia com objetivo de aprender a como fazer uma página. Desenvolvido para o curso de **HTML5 E CSS3 PARTE 3: TRABALHANDO COM FORMULÁRIOS E TABELAS** da plataforma [Alura](https://www.alura.com.br/).
 
 </br>
 
